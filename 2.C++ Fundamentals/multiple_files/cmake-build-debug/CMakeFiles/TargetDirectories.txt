@@ -1,0 +1,3 @@
+/home/iferca/Nextcloud/Documents/Projects/Cursos Europa/Cplusplus/cplusplus_training/2.C++ Fundamentals/multiple_files/cmake-build-debug/CMakeFiles/multiple_files.dir
+/home/iferca/Nextcloud/Documents/Projects/Cursos Europa/Cplusplus/cplusplus_training/2.C++ Fundamentals/multiple_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iferca/Nextcloud/Documents/Projects/Cursos Europa/Cplusplus/cplusplus_training/2.C++ Fundamentals/multiple_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

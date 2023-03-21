@@ -1,0 +1,4 @@
+/home/iferca/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/iferca/Nextcloud/Documents/Projects/Cursos Europa/Cplusplus/cplusplus_training/2.C++ Fundamentals/multiple_files"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/iferca/Nextcloud/Documents/Projects/Cursos Europa/Cplusplus/cplusplus_training/2.C++ Fundamentals/multiple_files/cmake-build-debug

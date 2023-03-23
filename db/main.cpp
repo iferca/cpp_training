@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
 
         std::ifstream in(file_name.c_str(), ios::binary);
 
-        for (int i = 0; i < 6; ++i) {
+        for (int i = 0; i < 3; ++i) {
             GeoPoint tmp;
             in >> tmp;
             cout << tmp << endl;
